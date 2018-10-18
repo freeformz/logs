@@ -17,6 +17,25 @@ cli to move logs across a network to a destination
 
 Orchestrates carriages
 
+## Config Sources
+
+### Amazon DynamoDB
+
+???
+
+### Amazon S3
+
+Read object in a format.
+Poll object every X for changes.
+
+### Amazon SNS
+
+### Hashicorp Consul
+
+### etcd
+
+### Zookeeper
+
 ## Destinations
 
 ### Amazon Cloudwatch Logs
