@@ -5,6 +5,18 @@
 - Detect json vs. new line
 - Batching vs. Streaming
 
+## Carriage
+
+> A load-carrying device from which logs are suspended and which rides back and forth along the skyline on sheaves for yarding.
+
+cli to move logs across a network to a destination
+
+## Hooktender
+
+>  The working foreman in charge of a yarding crew.
+
+Orchestrates carriages
+
 ## Destinations
 
 ### Amazon Cloudwatch Logs
